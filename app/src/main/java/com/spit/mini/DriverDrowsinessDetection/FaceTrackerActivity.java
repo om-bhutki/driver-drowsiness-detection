@@ -55,8 +55,7 @@ public class FaceTrackerActivity extends AppCompatActivity {
     private CameraSourcePreview mPreview;
     private GraphicOverlay mGraphicOverlay;
     private String start_2;
-    private String key = "facetrackeractivity";
-    private String key_2 = "Hardik's project";
+    private String key = "facetrackeractivity"
     private String key_3 = "hello";
     private String key_4 = "sensitivity";
     private int s_status, s_time;
